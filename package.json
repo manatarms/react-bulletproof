@@ -1,0 +1,25 @@
+{
+  "name": "react-bulletproof",
+  "version": "1.0.0",
+  "description": "Bulletproof your react components when testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manatarms/react-bulletproof.git"
+  },
+  "keywords": [
+    "testing",
+    "react",
+    "proptypes",
+    "snapshots"
+  ],
+  "author": "Sachin <fernandes.sachin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manatarms/react-bulletproof/issues"
+  },
+  "homepage": "https://github.com/manatarms/react-bulletproof#readme"
+}
