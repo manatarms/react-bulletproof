@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/manatarms/react-bulletproof/issues"
   },
-  "homepage": "https://github.com/manatarms/react-bulletproof#readme"
+  "homepage": "https://github.com/manatarms/react-bulletproof#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
 }
